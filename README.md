@@ -13,3 +13,14 @@ Taluka : Jamnagar
 
 District: Jamnagar
 ____________________________
+ISSUE DATE: 19/04/2024
+
+MP-01 : 19/03/2022-31/12/2022
+
+Quantity: 5016
+ ______________________
+SERIAL ID: 0001-000001-005016-UCR-CoU-IN-277-19032022-31122022
+
+Vintage Year: 2022
+
+Quantity: 5016
